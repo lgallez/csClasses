@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/layla.gallez/Desktop/laylaStuff/school/gavilan/CSIS45Sp17/header.h
+
+/Users/layla.gallez/Desktop/laylaStuff/school/gavilan/CSIS45Sp17/header2.h
+
+/Users/layla.gallez/Desktop/laylaStuff/school/gavilan/CSIS45Sp17/main.cpp
+header.h
+/Users/layla.gallez/Desktop/laylaStuff/school/gavilan/CSIS45Sp17/header.h
+header2.h
+/Users/layla.gallez/Desktop/laylaStuff/school/gavilan/CSIS45Sp17/header2.h
+iostream
+-
+
